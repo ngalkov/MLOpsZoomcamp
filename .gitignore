@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+
+# Environments
+.venv/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# IDE
+.idea/
+.vscode/
+
+
+# Latge data
+*.csv
+*.parquet
+
+
+# Artifacts
+artifacts/
