@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-06T13:08:31.512953",
+    "startedAt": "2023-06-06T13:08:30.662281",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-hw2",
+        "--wandb_entity",
+        "ngalkov",
+        "--data_artifact",
+        "ngalkov/mlops-zoomcamp-hw2/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/home/user1/MLOpsZoomcamp/sweep.py",
+    "codePath": "sweep.py",
+    "git": {
+        "remote": "git@github.com:ngalkov/MLOpsZoomcamp.git",
+        "commit": "e267c3b50022685656115f284ed8ac7ffb59d992"
+    },
+    "email": "ngalkov@users.noreply.github.com",
+    "root": "/home/user1/MLOpsZoomcamp",
+    "host": "Nikolay-PC",
+    "username": "user1",
+    "executable": "/home/user1/.cache/pypoetry/virtualenvs/mlopszoomcamp-Z9PMKxg5-py3.10/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3410.0139999999997,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3410.014,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 12.64493179321289
+    },
+    "memory": {
+        "total": 7.732353210449219
+    }
+}
