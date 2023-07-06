@@ -1,6 +1,6 @@
-artifact_location: file:///home/user1/MLOpsZoomcamp/mlruns/0
-creation_time: 1685627847555
+artifact_location: mlflow-artifacts:/0
+creation_time: 1686854504554
 experiment_id: '0'
-last_update_time: 1685627847555
+last_update_time: 1686854504554
 lifecycle_stage: active
 name: Default
