@@ -17,6 +17,9 @@ optuna = "^3.2.0"
 prefect = "^2.10.13"
 xgboost = "^1.7.5"
 prefect-aws = "^0.3.4"
+evidently = "^0.3.3"
+psycopg = "^3.1.9"
+psycopg-binary = "^3.1.9"
 
 
 [tool.poetry.group.dev.dependencies]
